@@ -1,0 +1,10 @@
+2025-04-04 05:50:02.386350 - Received CBT.V508.FILE193.PDS from FILE193.XMI 
+2025-04-04 05:50:02.387166 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE193.PDS, moved to PDS/$$$#DATE
+2025-04-04 05:50:02.387317 - Found $$REF.txt (text/plain) in CBT.V508.FILE193.PDS, moved to PDS/$$REF
+2025-04-04 05:50:02.387447 - Found @FILE193.txt (text/plain) in CBT.V508.FILE193.PDS, moved to PDS/@FILE193
+2025-04-04 05:50:02.387568 - Found CASSCOPY.jcl (text/plain) in CBT.V508.FILE193.PDS, moved to PDS/CASSCOPY
+2025-04-04 05:50:02.387708 - Found TCOPY.txt (text/plain) in CBT.V508.FILE193.PDS, moved to PDS/TCOPY
+2025-04-04 05:50:02.387822 - Found TCOPY#.jcl (text/plain) in CBT.V508.FILE193.PDS, moved to PDS/TCOPY#
+2025-04-04 05:50:02.387941 - Found TCOPYJ.jcl (text/plain) in CBT.V508.FILE193.PDS, moved to PDS/TCOPYJ
+2025-04-04 05:50:02.388060 - Found TCOPYLST.jcl (text/plain) in CBT.V508.FILE193.PDS, moved to PDS/TCOPYLST
+2025-04-04 05:50:02.388174 - Found TPLABJ.jcl (text/plain) in CBT.V508.FILE193.PDS, moved to PDS/TPLABJ
